@@ -1,3 +1,12 @@
+# TellStones
+This repo is based on the newly released game called "TellStones" released by Riot Games.
+
+This game is normally played as a board game, but I wanted to transition it into a computer game as a learning experience.
+
+More info about the game can be found here: https://tellstones.com/en-us/
+
+The manual can be found here: https://assets.contentstack.io/v3/assets/blt0d5213e3ccf9f400/bltd5de22e9cd4788c5/5f624e7af0d2b04fae76b15e/tellstones-en.pdf
+
 # Disclaimer
 #### This is a learning/hobbie project
 I am not connected to Riot Games in any way, nor do I represent them. If you are from Riot Games and would like this repo taken down, please contact me so we can resolve this issue.
